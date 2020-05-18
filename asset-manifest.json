@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/step-form/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/step-form/static/js/main.40d84382.chunk.js",
+    "main.js.map": "/step-form/static/js/main.40d84382.chunk.js.map",
+    "runtime-main.js": "/step-form/static/js/runtime-main.023903ae.js",
+    "runtime-main.js.map": "/step-form/static/js/runtime-main.023903ae.js.map",
+    "static/js/2.37424ffa.chunk.js": "/step-form/static/js/2.37424ffa.chunk.js",
+    "static/js/2.37424ffa.chunk.js.map": "/step-form/static/js/2.37424ffa.chunk.js.map",
+    "index.html": "/step-form/index.html",
+    "precache-manifest.8a8fc39c9b5b7b2a7a65a554c457539a.js": "/step-form/precache-manifest.8a8fc39c9b5b7b2a7a65a554c457539a.js",
+    "service-worker.js": "/step-form/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/step-form/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.37424ffa.chunk.js.LICENSE.txt": "/step-form/static/js/2.37424ffa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.023903ae.js",
+    "static/js/2.37424ffa.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.40d84382.chunk.js"
+  ]
+}
